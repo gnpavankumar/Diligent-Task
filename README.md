@@ -36,6 +36,22 @@ Ensure:
 After running `python generate_datasets.py`, the CSVs are saved under `data/`.
 
 **Step 2: Import CSVs into SQLite**  
+Prompt used inside Cursor terminal:  
+```
+Write Python code that:
+
+1. Creates a SQLite database named ecommerce.db
+2. Creates tables: customers, products, orders, order_items, shipments
+3. Loads the 5 generated CSV files into these tables using pandas and sqlite3
+4. Performs basic validation after insertion (row counts)
+5. Prints “Data imported successfully”
+
+Ensure the code uses:
+- pandas
+- sqlite3
+- clear schema definitions
+```
+
 1. Install requirements inside Cursor (`pip install faker pandas`).  
 2. Run `python import_data.py` to create `ecommerce.db`, create tables (`customers`, `products`, `orders`, `order_items`, `shipments`), load the CSVs, and validate row counts.  
 3. Confirm the script prints `Data imported successfully`.
