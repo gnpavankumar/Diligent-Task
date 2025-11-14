@@ -1,0 +1,81 @@
+customer_id,name,email,phone,city,signup_date
+1,Allison Hill,donaldgarcia@example.net,+1-219-560-0133,Robinsonshire,2024-01-20
+2,Abigail Shaffer,jpeterson@example.org,001-851-316-1559x40781,Mariastad,2025-04-28
+3,Benjamin Stanley,tracie31@example.com,575-425-5341x928,Grayside,2023-10-21
+4,Sarah Parsons,lydiatrujillo@example.com,513-695-3767x242,Hurstfurt,2024-05-29
+5,Zachary Hicks,camposmichelle@example.org,+1-326-691-6697x8480,Danielchester,2023-07-17
+6,Troy Liu,teresa28@example.org,+1-948-293-2528x8095,West Natashaport,2023-11-20
+7,Shawn Arroyo,dennislisa@example.net,001-822-778-2489x63834,Lammouth,2023-05-20
+8,Austin Smith,briannasmith@example.net,+1-403-910-5183x4738,Port Thomas,2024-08-07
+9,Brent Jordan,ujenkins@example.org,+1-610-965-1333x87262,Port Sandra,2024-10-02
+10,Savannah Garcia,novaksara@example.org,(267)873-6026,Saramouth,2024-01-31
+11,Tyler Cowan,smoore@example.org,4982050097,Port Jacobland,2025-09-27
+12,Jennifer David,bethwilliams@example.org,(799)385-4353x46247,South Christineshire,2023-04-18
+13,Daniel Baker,nicole35@example.com,(378)449-8084,Darrellville,2025-03-22
+14,Douglas Clark,james48@example.com,801-264-0052x427,North Sierraberg,2025-03-10
+15,Jacob Tran,tanderson@example.com,4535315869,Port Lisa,2024-08-15
+16,Norman Cook,vpham@example.org,521-260-7337x543,South Mark,2023-03-01
+17,Diana May,ifrazier@example.com,8147294019,Samuelhaven,2023-05-12
+18,Kenneth Scott,zsmith@example.net,+1-835-661-5951x48465,East Robert,2024-06-24
+19,Stephanie Gilbert,richard04@example.com,969.495.7773,West Zacharymouth,2023-04-08
+20,Nicole Chambers,lindsayhernandez@example.org,979.817.6936,East Diana,2022-11-22
+21,Shannon Mcclure,zrobinson@example.net,870.983.1727x88957,Lake Michelle,2024-10-13
+22,David Walsh,rsims@example.com,443-545-5812,Bensonborough,2023-02-21
+23,Gary Owens,clarkrobert@example.net,001-509-967-0546x688,West Ryan,2022-12-29
+24,Michael Yates,marycalhoun@example.net,+1-906-499-0162,West Nicholasborough,2024-10-20
+25,Philip Gray,fking@example.com,5802531003,East David,2025-09-18
+26,Travis Marshall,katie29@example.net,001-512-341-9049x6631,Melissaville,2025-04-11
+27,Hannah Patterson,casey50@example.com,916.857.2628x4987,Marcusbury,2023-03-28
+28,Jerry Christensen,frogers@example.com,(273)554-5494,East Jenniferfort,2025-03-25
+29,Melissa Brewer,bwest@example.org,736-734-9578x8568,Nelsonview,2023-11-07
+30,Corey Wilson,jamesrodgers@example.com,001-498-694-1343x5240,North Angelaberg,2025-07-31
+31,Katherine Salas,taylor75@example.org,2474116719,Port Anna,2024-02-28
+32,David Grant,yobrien@example.net,286.377.4964,Lake Jason,2025-09-04
+33,David Arnold,aaronhayes@example.net,340.534.4713x4936,West Margaret,2023-03-04
+34,Ricky Larson,scott74@example.net,(248)387-7190x6594,Lake Mary,2025-04-25
+35,Alicia Hubbard,barbara27@example.net,+1-374-429-6717x5655,Robertfort,2024-02-04
+36,Jennifer Hodges,gibsonleonard@example.com,768-908-7603,Wolfborough,2024-01-02
+37,Tanya Kim,omartinez@example.net,324.980.8613,Lake Marilynfort,2024-02-10
+38,Denise Davenport,jsanchez@example.org,(639)982-1465x8404,South Amanda,2024-05-03
+39,Phillip Bennett,molly39@example.com,260.457.6627,Mollymouth,2023-04-17
+40,Joyce Bowen,jpitts@example.org,345.596.1586x5780,Wendyland,2024-09-18
+41,Paige Padilla,wallaceheather@example.org,8504455623,East Christian,2024-06-30
+42,Cynthia Durham,jesselittle@example.com,607-948-2175x946,Jamesfurt,2024-12-03
+43,James Howard,victoria40@example.net,(640)490-9743x9533,Lake Debbieport,2024-09-28
+44,Jacob Anderson,mark62@example.org,(685)788-4247,South Sydneyberg,2023-10-30
+45,Misty Whitney,christopher60@example.com,+1-517-954-9651,New Nicoleside,2024-04-06
+46,Connie Brown,tblankenship@example.net,(712)800-4711x38267,South Diana,2024-12-13
+47,Teresa Ramirez,jeff73@example.com,958-350-6431,Lake Danielle,2022-12-17
+48,Gavin Zhang,caseyhubbard@example.org,001-433-652-9042,North Donna,2022-12-24
+49,Hunter Kramer,alfred40@example.org,001-568-211-7758x9178,Stephentown,2023-02-16
+50,Dr. Jessica Rodriguez DDS,fjones@example.com,+1-621-924-9985x698,Garciaville,2025-08-27
+51,Patricia Le,russellbeasley@example.com,376-361-5654x52711,Davisstad,2023-06-04
+52,Laurie Hoffman,elizabeth65@example.net,001-360-749-4519x83273,Dannyview,2025-04-23
+53,Jeffrey Hoffman,lynchdiane@example.net,302-444-5502x296,North Julieborough,2024-06-20
+54,Glen Wood,kimberly99@example.org,9229901476,Nelsonhaven,2023-05-09
+55,Brian Gregory,trose@example.org,669.600.3432,Davidfort,2024-09-12
+56,James Padilla,charles06@example.org,715.496.9664x160,Collierstad,2023-03-30
+57,Brian Graham,zwarren@example.com,001-453-552-1818x8355,East Jonathanburgh,2025-06-06
+58,Peter Jones,kmarshall@example.net,299.755.2717x744,West Steventon,2023-02-10
+59,Dustin Newman,gilbertwilliam@example.com,001-480-279-3597,Garciamouth,2023-03-25
+60,Carrie Wright,hritter@example.net,+1-725-354-6659x051,Mitchellberg,2024-04-14
+61,Matthew Rangel,tammy62@example.net,001-214-786-5281x685,Henryborough,2024-04-27
+62,Katelyn Perez,ericphillips@example.org,988.205.9296x22292,Diazbury,2024-10-04
+63,Nicole Bowers,amandacollins@example.com,859.477.4688,Port Cassandra,2023-12-07
+64,John Watson,dawsonzachary@example.org,812-247-8261x3750,Shawbury,2024-07-05
+65,Jade Johnson DVM,lacey20@example.com,827.379.0104x3289,Johnville,2023-01-27
+66,Mark Dean,rodriguezrebecca@example.net,+1-708-593-2460,Lopezland,2025-02-04
+67,Andrea Fox,myerstheodore@example.net,(754)705-1531x9520,Port Kimberly,2024-11-04
+68,Mrs. Catherine Taylor,mjohnson@example.org,205.548.6874,Michaelton,2025-08-28
+69,Caleb Richardson,ypaul@example.com,(877)458-4161,Manuelland,2024-04-06
+70,Elizabeth Morrison,cjackson@example.com,205.496.4016x582,Johnsonland,2023-11-15
+71,Holly Reyes,jacobserika@example.com,(271)492-8565x431,Holmesside,2023-05-15
+72,David Griffin,heather73@example.org,(617)627-1551,Lake Jenna,2025-11-05
+73,Rebecca Hicks,gallowaylaura@example.org,805.989.5782x9114,Hammondshire,2023-03-08
+74,Evan Jones,wfrazier@example.org,001-789-522-6801x82422,Staceyhaven,2024-01-29
+75,Danielle Reid,david49@example.net,782-299-2299,North Brandonshire,2023-12-30
+76,Pamela Butler,jimenezcourtney@example.com,+1-947-536-4710x2767,Catherinemouth,2024-03-24
+77,Shannon Hester,kathleenrobertson@example.org,537-414-7321x04696,Sarahmouth,2023-09-04
+78,Kathleen Robertson,fkoch@example.org,268-673-3950,Harperfort,2024-01-31
+79,Sarah Jordan,jessica65@example.org,(609)383-5841x6878,North Phillip,2024-04-23
+80,Holly Thomas,cporter@example.org,(757)787-2982,South Vicki,2024-02-21

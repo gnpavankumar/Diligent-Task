@@ -1,0 +1,151 @@
+shipment_id,order_id,shipment_date,delivery_status,courier
+1,1,2025-11-14,Delivered,FedEx
+2,2,2025-11-16,In Transit,DHL
+3,3,2025-11-20,Out for Delivery,UPS
+4,4,2025-11-14,Delivered,USPS
+5,5,2025-11-17,Out for Delivery,USPS
+6,6,2025-11-16,Delivered,USPS
+7,7,2025-11-19,In Transit,Royal Mail
+8,8,2025-11-16,Delivered,Canada Post
+9,9,2025-11-17,Pending,Royal Mail
+10,10,2025-11-20,Shipped,UPS
+11,11,2025-11-16,Shipped,UPS
+12,12,2025-11-19,Shipped,USPS
+13,13,2025-11-18,Out for Delivery,FedEx
+14,14,2025-11-19,In Transit,USPS
+15,15,2025-11-14,Out for Delivery,UPS
+16,16,2025-11-18,Delivered,UPS
+17,17,2025-11-19,Delivered,DHL
+18,18,2025-11-14,Out for Delivery,USPS
+19,19,2025-11-16,In Transit,Canada Post
+20,20,2025-11-19,Shipped,DHL
+21,21,2025-11-15,Delivered,Canada Post
+22,22,2025-11-20,In Transit,FedEx
+23,23,2025-11-14,Shipped,Canada Post
+24,24,2025-11-16,In Transit,Royal Mail
+25,25,2025-11-14,Out for Delivery,Canada Post
+26,26,2025-11-17,Delivered,UPS
+27,27,2025-11-17,Delivered,Royal Mail
+28,28,2025-11-15,In Transit,USPS
+29,29,2025-11-16,Out for Delivery,FedEx
+30,30,2025-11-14,Pending,FedEx
+31,31,2025-11-17,In Transit,Royal Mail
+32,32,2025-11-14,Shipped,UPS
+33,33,2025-11-19,In Transit,Royal Mail
+34,34,2025-11-16,Out for Delivery,USPS
+35,35,2025-11-15,Shipped,DHL
+36,36,2025-11-17,Shipped,Canada Post
+37,37,2025-11-17,Delivered,Canada Post
+38,38,2025-11-20,Delivered,Canada Post
+39,39,2025-11-16,Out for Delivery,Royal Mail
+40,40,2025-11-18,Shipped,UPS
+41,41,2025-11-20,Shipped,Canada Post
+42,42,2025-11-19,Out for Delivery,UPS
+43,43,2025-11-18,Shipped,FedEx
+44,44,2025-11-20,Shipped,USPS
+45,45,2025-11-14,In Transit,Royal Mail
+46,46,2025-11-16,In Transit,Royal Mail
+47,47,2025-11-15,Out for Delivery,DHL
+48,48,2025-11-14,Shipped,Canada Post
+49,49,2025-11-19,In Transit,USPS
+50,50,2025-11-20,In Transit,Royal Mail
+51,51,2025-11-14,Shipped,UPS
+52,52,2025-11-19,Pending,USPS
+53,53,2025-11-19,In Transit,FedEx
+54,54,2025-11-20,Delivered,Canada Post
+55,55,2025-11-18,Shipped,FedEx
+56,56,2025-11-17,In Transit,DHL
+57,57,2025-11-20,Shipped,FedEx
+58,58,2025-11-16,Shipped,UPS
+59,59,2025-11-19,Shipped,Royal Mail
+60,60,2025-11-16,Delivered,UPS
+61,61,2025-11-15,Out for Delivery,Royal Mail
+62,62,2025-11-16,Shipped,UPS
+63,63,2025-11-18,In Transit,Royal Mail
+64,64,2025-11-19,Shipped,Royal Mail
+65,65,2025-11-15,Shipped,Royal Mail
+66,66,2025-11-19,Delivered,UPS
+67,67,2025-11-20,Delivered,DHL
+68,68,2025-11-20,Delivered,DHL
+69,69,2025-11-14,Delivered,Royal Mail
+70,70,2025-11-16,Out for Delivery,Royal Mail
+71,71,2025-11-17,Out for Delivery,DHL
+72,72,2025-11-17,Delivered,Royal Mail
+73,73,2025-11-16,Out for Delivery,UPS
+74,74,2025-11-17,Shipped,Canada Post
+75,75,2025-11-17,Shipped,DHL
+76,76,2025-11-19,Pending,USPS
+77,77,2025-11-17,In Transit,FedEx
+78,78,2025-11-16,Out for Delivery,UPS
+79,79,2025-11-20,Out for Delivery,Canada Post
+80,80,2025-11-20,Shipped,USPS
+81,81,2025-11-15,Delivered,Royal Mail
+82,82,2025-11-18,Shipped,FedEx
+83,83,2025-11-17,Shipped,USPS
+84,84,2025-11-15,Shipped,DHL
+85,85,2025-11-16,Delivered,Royal Mail
+86,86,2025-11-17,Shipped,FedEx
+87,87,2025-11-20,Shipped,Royal Mail
+88,88,2025-11-19,Shipped,FedEx
+89,89,2025-11-17,Delivered,USPS
+90,90,2025-11-17,Delivered,USPS
+91,91,2025-11-14,Pending,USPS
+92,92,2025-11-18,In Transit,FedEx
+93,93,2025-11-15,In Transit,DHL
+94,94,2025-11-14,Shipped,Royal Mail
+95,95,2025-11-20,Out for Delivery,USPS
+96,96,2025-11-16,In Transit,DHL
+97,97,2025-11-17,Shipped,UPS
+98,98,2025-11-19,In Transit,USPS
+99,99,2025-11-16,Pending,DHL
+100,100,2025-11-18,In Transit,UPS
+101,101,2025-11-18,Shipped,USPS
+102,102,2025-11-18,In Transit,Royal Mail
+103,103,2025-11-16,Delivered,Royal Mail
+104,104,2025-11-19,Out for Delivery,FedEx
+105,105,2025-11-14,In Transit,UPS
+106,106,2025-11-18,Delivered,FedEx
+107,107,2025-11-15,Out for Delivery,USPS
+108,108,2025-11-18,Pending,DHL
+109,109,2025-11-15,Out for Delivery,USPS
+110,110,2025-11-18,In Transit,Royal Mail
+111,111,2025-11-18,Shipped,Royal Mail
+112,112,2025-11-16,Shipped,Royal Mail
+113,113,2025-11-19,Delivered,Royal Mail
+114,114,2025-11-16,In Transit,Royal Mail
+115,115,2025-11-18,In Transit,Royal Mail
+116,116,2025-11-16,In Transit,DHL
+117,117,2025-11-16,Shipped,DHL
+118,118,2025-11-17,In Transit,Canada Post
+119,119,2025-11-20,Out for Delivery,DHL
+120,120,2025-11-18,In Transit,Canada Post
+121,121,2025-11-20,Delivered,Royal Mail
+122,122,2025-11-18,Shipped,DHL
+123,123,2025-11-18,In Transit,Royal Mail
+124,124,2025-11-19,Out for Delivery,USPS
+125,125,2025-11-15,Delivered,FedEx
+126,126,2025-11-14,In Transit,Canada Post
+127,127,2025-11-14,Shipped,USPS
+128,128,2025-11-16,In Transit,USPS
+129,129,2025-11-19,Shipped,Royal Mail
+130,130,2025-11-20,Out for Delivery,USPS
+131,131,2025-11-20,Delivered,Canada Post
+132,132,2025-11-14,Out for Delivery,Royal Mail
+133,133,2025-11-15,In Transit,Canada Post
+134,134,2025-11-17,In Transit,UPS
+135,135,2025-11-15,In Transit,Royal Mail
+136,136,2025-11-16,In Transit,Canada Post
+137,137,2025-11-20,Delivered,Canada Post
+138,138,2025-11-19,Delivered,UPS
+139,139,2025-11-18,In Transit,FedEx
+140,140,2025-11-16,In Transit,FedEx
+141,141,2025-11-16,Delivered,Canada Post
+142,142,2025-11-15,Out for Delivery,USPS
+143,143,2025-11-16,In Transit,Royal Mail
+144,144,2025-11-20,Out for Delivery,UPS
+145,145,2025-11-14,In Transit,Royal Mail
+146,146,2025-11-17,Delivered,USPS
+147,147,2025-11-20,Shipped,FedEx
+148,148,2025-11-16,Pending,Canada Post
+149,149,2025-11-14,Shipped,USPS
+150,150,2025-11-19,Shipped,USPS
